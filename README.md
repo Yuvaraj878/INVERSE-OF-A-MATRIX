@@ -19,7 +19,6 @@ A=np.array([[6,2,3],[3,1,1],[10,3,4]])
 B=np.linalg.inv(A)
 print(B)
 ## Output:
-file:///home/sec/Pictures/Screenshots/Maths%20ex%203.png![image](https://user-images.githubusercontent.com/118622554/208284118-e37be5ca-3af7-4776-966c-3b22861d3ae7.png)
 
 ## Result:
 Thus the inverse of given matrix is successfully solved using python program
