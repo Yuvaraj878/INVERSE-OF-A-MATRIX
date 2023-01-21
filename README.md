@@ -14,7 +14,10 @@ Then assume another variable in that variable give np.linalg.inv to find the inv
 ### Step 4: 
 Then print the inverse of the matrix
 ## Program:
-```
+### Python program to find the inverse of a matrix :
+Developed by : YUVARAJ.S
+Register Number : 22008589
+```python
 import numpy as np
 A=np.array([[6,2,3],[3,1,1],[10,3,4]])
 B=np.linalg.inv(A)
